@@ -1,16 +1,37 @@
-### Hi there 👋
+# Hey there! 👋 I'm Marcos.
 
-<!--
-**Embe-Codez/embe-codez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate coding enthusiast who's always looking to learn and explore new technologies. My current focus is on mastering Cybersecurity, DevOps, and Python programming,
 
-Here are some ideas to get you started:
+When I'm not coding, you can find me indulging in my love for anime! Here are my top 5 favorites:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🦁 Hunter x Hunter 🦁
+* 🍀 Black Clover 🍀
+* 👊 My Hero Academia 👊
+* 🤖 Attack on Titan 🤖
+* ⚔️ Record of Ragnarok ⚔️
+
+Fun Fact: The first computer bug was a literal bug! In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term "debugging" was born. 🐛
+
+### My Skills :100:
+
+Here are some of the skills I may consider to know a little about on a good day:
+
+* Azure ☁️ 
+* Cybersecurity 🔒
+* DevOps 🛠️
+* Python programming 🐍
+
+### My Projects :hammer:
+
+I've worked on a few projects, here are some that are my favorite right now:
+
+    Project A: A SIEM project that uses an ELK stack to collect network traffic data using packetbeat.
+    Project B: Automating cloud infrastructure using Ansible and Terraform to deploy a complete single-page application.
+
+### Let's Connect! :mailbox_with_no_mail:
+
+If you'd like to connect with me, you can also find me on:
+
+* LinkedIn: https://www.linkedin.com/in/marcos-blount/
+
+Thanks for stopping by, and I hope you have a great day! 😎
