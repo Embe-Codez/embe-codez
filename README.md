@@ -8,7 +8,7 @@ When I'm not coding, you can find me indulging in my love for anime! Here are my
 * 🍀 Black Clover 🍀
 * 👊 My Hero Academia 👊
 * 🤖 Attack on Titan 🤖
-* ⚔️ Record of Ragnarok ⚔️
+* ⚔️ Jujutsu Kaisen ⚔️
 
 Fun Fact: The first computer bug was a literal bug! In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term "debugging" was born. 🐛
 
