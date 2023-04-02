@@ -12,6 +12,8 @@ When I'm not coding, you can find me indulging in my love for anime! Here are my
 
 Fun Fact: The first computer bug was a literal bug! In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term "debugging" was born. 🐛
 
+![](https://media.tenor.com/hphibCumbckAAAAM/meme.gif)
+
 ### My Skills :100:
 
 Here are some of the skills I may consider to know a little about on a good day:
@@ -25,8 +27,8 @@ Here are some of the skills I may consider to know a little about on a good day:
 
 I've worked on a few projects, here are some that are my favorite right now:
 
-    Project A: A SIEM project that uses an ELK stack to collect network traffic data using packetbeat.
-    Project B: Automating cloud infrastructure using Ansible and Terraform to deploy a complete single-page application.
+ * SIEM project that uses an ELK stack to collect network traffic data using packetbeat.
+ * Automation project for cloud infrastructure using Ansible and Terraform to deploy a complete single-page application.
 
 ### Let's Connect! :mailbox_with_no_mail:
 
