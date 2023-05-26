@@ -35,5 +35,3 @@ I've worked on a few projects, here are some that are my favorite right now:
 If you'd like to connect with me, you can also find me on:
 
 * LinkedIn: https://www.linkedin.com/in/marcos-blount/
-
-Thanks for stopping by, and I hope you have a great day! 😎
