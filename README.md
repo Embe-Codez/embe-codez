@@ -10,18 +10,7 @@ When I'm not coding, you can find me indulging in my love for anime! Here are my
 * 🤖 Attack on Titan 🤖
 * ⚔️ Jujutsu Kaisen ⚔️
 
-Fun Fact: The first computer bug was a literal bug! In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term "debugging" was born. 🐛
-
 ![](https://media.tenor.com/hphibCumbckAAAAM/meme.gif)
-
-### My Skills :100:
-
-Here are some of the skills I may consider to know a little about on a good day:
-
-* Azure ☁️ 
-* Cybersecurity 🔒
-* DevOps 🛠️
-* Python programming 🐍
 
 ### My Projects :hammer:
 
