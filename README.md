@@ -9,5 +9,3 @@ When I'm not coding, you can find me indulging in my love for anime! Here are my
 * 👊 My Hero Academia 👊
 * 🤖 Attack on Titan 🤖
 * ⚔️ Jujutsu Kaisen ⚔️
-
-![](https://media.tenor.com/hphibCumbckAAAAM/meme.gif)
