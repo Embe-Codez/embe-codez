@@ -1,6 +1,6 @@
-# Hey there! 👋 I'm Marcos.
+# Hey there! 👋 I'm Embe
 
-I'm a passionate techy who's always looking to learn and explore new technologies. My current focus is on mastering Cybersecurity, DevOps, and Python programming,
+I'm a passionate techy who's always looking to learn and explore new technologies. My current interests lie in Golang and Python.
 
 When I'm not coding, you can find me indulging in my love for anime! Here are my top 5 favorites:
 
