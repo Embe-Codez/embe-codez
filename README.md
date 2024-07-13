@@ -4,7 +4,7 @@
 
 I enjoy switching between sysadmin and dev.
 
-''' go
+```go
 package main
 
 import "fmt"
@@ -34,4 +34,3 @@ func main() {
 
 	fmt.Printf("%+v\n", bio)
 }
-'''
