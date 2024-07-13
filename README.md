@@ -4,35 +4,36 @@
 
 I enjoy switching between sysadmin and dev.
 
-```go
+'''
 package main
 
 import "fmt"
 
 type Bio struct {
-	Name             string
-	Role             string
-	Technologies     []string
-	Programming      []string
-	Frameworks       []string
-	OperatingSystem  string
-	Database         string
-	Cloud            string
-	AutomationTools  []string
+	Name          string
+	Role          string
+	Technologies  []string
+	Programming   []string
+	Frameworks    []string
+	OS            string
+	Database      string
+	Cloud         string
+	Automation    []string
 }
 
 func main() {
 	bio := Bio{
-		Name:            "Marcos",
-		Role:            "DevOps Engineer",
-		Technologies:    []string{"Containers", "Kubernetes", "Serverless"},
-		Programming:     []string{"C#", "Golang"},
-		Frameworks:      []string{"ASP.NET Core"},
-		OperatingSystem: "Linux (Fedora ftw!)",
-		Database:        "Postgres",
-		Cloud:           "Azure",
-		AutomationTools: []string{"Ansible", "Packer", "Terraform"},
+		Name:         "Marcos",
+		Role:         "DevOps Engineer",
+		Technologies: []string{"Containers", "Kubernetes", "Serverless"},
+		Programming:  []string{"C#", "Golang"},
+		Frameworks:   []string{"ASP.NET Core"},
+		OS:           "Linux (Fedora ftw!)",
+		Database:     "Postgres",
+		Cloud:        "Azure",
+		Automation:   []string{"Ansible", "Packer", "Terraform"},
 	}
 
 	fmt.Printf("%+v\n", bio)
 }
+'''
