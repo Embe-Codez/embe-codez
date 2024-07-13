@@ -10,20 +10,18 @@ package main
 import "fmt"
 
 type Bio struct {
-	Name          string
-	Role          string
-	Technologies  []string
-	Programming   []string
-	Frameworks    []string
-	OS            string
-	Database      string
-	Cloud         string
-	Automation    []string
+	Role         string
+	Technologies []string
+	Programming  []string
+	Frameworks   []string
+	OS           string
+	Database     string
+	Cloud        string
+	Automation   []string
 }
 
 func main() {
 	bio := Bio{
-		Name:         "Marcos",
 		Role:         "DevOps Engineer",
 		Technologies: []string{"Containers", "Kubernetes", "Serverless"},
 		Programming:  []string{"C#", "Golang"},
