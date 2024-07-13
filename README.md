@@ -4,7 +4,7 @@
 
 I enjoy switching between sysadmin and dev.
 
-'''
+''' go
 package main
 
 import "fmt"
