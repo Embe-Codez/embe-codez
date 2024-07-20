@@ -4,33 +4,37 @@
 
 I enjoy switching between sysadmin and dev.
 
-```go
-package main
+```C#
+using System.Collections.Generic;
 
-import "fmt"
+class Bio
+{
+    public string Role { get; set; }
+    public List<string> Technologies { get; set; }
+    public List<string> Programming { get; set; }
+    public List<string> Frameworks { get; set; }
+    public string OS { get; set; }
+    public string Database { get; set; }
+    public string Cloud { get; set; }
+    public List<string> Automation { get; set; }
 
-type Bio struct {
-	Role         string
-	Technologies []string
-	Programming  []string
-	Frameworks   []string
-	OS           string
-	Database     string
-	Cloud        string
-	Automation   []string
+    public Bio()
+    {
+        Role = "DevOps Engineer";
+        Technologies = new List<string> { "Containers", "Kubernetes", "Serverless" };
+        Programming = new List<string> { "C#", "Golang" };
+        Frameworks = new List<string> { "ASP.NET Core" };
+        OS = "Linux (Fedora ftw!)";
+        Database = "Postgres";
+        Cloud = "Azure";
+        Automation = new List<string> { "Ansible", "Packer", "Terraform" };
+    }
 }
 
-func main() {
-	bio := Bio{
-		Role:         "DevOps Engineer",
-		Technologies: []string{"Containers", "Kubernetes", "Serverless"},
-		Programming:  []string{"C#", "Golang"},
-		Frameworks:   []string{"ASP.NET Core"},
-		OS:           "Linux (Fedora ftw!)",
-		Database:     "Postgres",
-		Cloud:        "Azure",
-		Automation:   []string{"Ansible", "Packer", "Terraform"},
-	}
-
-	fmt.Printf("%+v\n", bio)
+class Program
+{
+    static void Main()
+    {
+        var bio = new Bio();
+    }
 }
